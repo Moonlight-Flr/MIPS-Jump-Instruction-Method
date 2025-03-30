@@ -1,4 +1,4 @@
-# MIPS-Jump-Instruction-Method
+# MIPS-Calculate-26-Bits-Jump-Instruction-Manually
 
 This repository describes an efficient method for manually calculating the 26 bits required for a jump instruction in MIPS assembler.
 
